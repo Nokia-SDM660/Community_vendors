@@ -2,7 +2,7 @@
 
 | Device       |              Download Link                      |  Download Statistics  |
 |--------------|-------------------------------------------------|-----------------------|
-| Nokia 6.1 Plus | [**Dragon_11.0-Community_Vendor-20201114.zip**](https://sourceforge.net/projects/drg-sprout/files/vendors/Dragon_11.0-Community_Vendor-20201114.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/vendors/Dragon_11.0-Community_Vendor-20201114.zip.svg)|
+| Nokia 6.1 Plus | [**Dragon_11.0-Community_Vendor-20201124.zip**](https://sourceforge.net/projects/drg-sprout/files/vendors/Dragon_11.0-Community_Vendor-20201124.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/vendors/Dragon_11.0-Community_Vendor-20201124.zip.svg)|
 | Nokia 7 Plus | [**Onyx_11.0-Community_Vendor-20201114.zip**](https://sourceforge.net/projects/b2n-sprout/files/vendors/Onyx_11.0-Community_Vendor-20201114.zip) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/vendors/Onyx_11.0-Community_Vendor-20201114.zip.svg)|
 | Nokia 7.2 | [**Daredevil_11.0-Community_Vendor-20201113.zip**](https://sourceforge.net/projects/ddv-sprout/files/vendors/Daredevil_11.0-Community_Vendor-20201113.zip) |![data](https://img.shields.io/sourceforge/dt/ddv-sprout/vendors/Daredevil_11.0-Community_Vendor-20201113.zip.svg)|
 | Nokia 6.2 | [**Starlord_11.0-Community_Vendor-20201113.zip**](https://sourceforge.net/projects/sld-sprout/files/vendors/Starlord_11.0-Community_Vendor-20201113.zip) |![data](https://img.shields.io/sourceforge/dt/sld-sprout/vendors/Starlord_11.0-Community_Vendor-20201113.zip.svg)|
